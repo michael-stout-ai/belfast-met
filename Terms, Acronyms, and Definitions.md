@@ -1,7 +1,3 @@
-Please find the requested lists of terms, acronyms, and definitions, along with the libraries used and their purposes, for each lecture.
-
----
-
 ## 5.1 Neural Networks
 
 **Terms, Acronyms, and Definitions:**
